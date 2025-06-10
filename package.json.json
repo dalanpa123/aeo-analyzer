@@ -1,0 +1,23 @@
+{
+  "name": "aeo-analyzer",
+  "version": "1.0.0",
+  "description": "AI搜尋優化分析工具 - 分析品牌在AI回答中的表現",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "aeo",
+    "ai-search",
+    "brand-analysis",
+    "claude-api"
+  ],
+  "author": "你的名字",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
